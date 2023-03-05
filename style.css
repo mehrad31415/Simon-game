@@ -1,0 +1,52 @@
+.body--color {
+    background-color: #0E8388;
+}
+.body--position {
+    text-align: center;
+}
+.h1--font{
+    color:#CBE4DE;
+    font-family: 'Roboto', sans-serif;
+}
+.footer--font{
+    color:#2C3333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+    margin-top: 0;
+}
+.h2--font{
+    color:#2C3333;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.block{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 25px;
+    border: solid;
+}
+.red{
+    background-color: red;
+    margin:0 auto 3rem;
+}
+.green{
+    background-color: green;
+    margin:3rem auto 0;
+    
+}
+.yellow{
+    background-color: yellow;
+    margin:0 auto 3rem;
+}
+.blue{
+    background-color: blue;
+    margin:3rem auto 0;
+}
+.row{
+    display: inline-block;
+    margin:3rem;
+}
+.anim{
+    opacity: 0.2;
+}
